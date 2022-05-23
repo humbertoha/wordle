@@ -1,0 +1,6 @@
+# MySQL
+REMOTE_ADDR=mysql
+MYSQL_DATABASE=teswoordle
+MYSQL_ROOT_PASSWORD=test_pass
+MYSQL_USER=test
+MYSQL_PASS=pass
